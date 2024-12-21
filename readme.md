@@ -31,15 +31,15 @@
 <br><br>
 2. ``conda env create -f environment.yml --name your_env_name  &nbsp;&nbsp;&nbsp;&nbsp;conda创建你的python环境``
 <br><br>
-3. ``conda activate your_env_name &nbsp;&nbsp;激活conda环境``
+3. ``conda activate your_env_name 激活conda环境``
 <br><br>
-4. ``python train.py &nbsp;&nbsp;开始训练``
+4. ``python train.py 开始训练``
 <br><br>
-5. ``python test.py &nbsp;&nbsp;开始测试``
+5. ``python test.py 开始测试``
 <br><br>
-6. ``python test_visual.py &nbsp;&nbsp;启动可视化测试``
+6. ``python test_visual.py 启动可视化测试``
 <br><br>
-7. ``python FID_evaluation.py &nbsp;&nbsp;启动FID计算``
+7. ``python FID_evaluation.py 启动FID计算``
 `
 ### 效果展示
 
